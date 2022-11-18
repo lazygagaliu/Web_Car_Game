@@ -22,7 +22,7 @@
   "homepage": "https://github.com/lazygagaliu/Web_Car_Game_V1#readme",
   "devDependencies": {
     "webpack": "^4.39.3",
-    "webpack-cli": "^3.3.8",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.8.0"
   },
   "dependencies": {
